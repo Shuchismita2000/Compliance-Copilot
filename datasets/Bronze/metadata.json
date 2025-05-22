@@ -1,0 +1,56 @@
+{
+  "RBI": [
+    {
+      "file": "RBI_NBFC_Directions_2023.pdf",
+      "title": "Master Direction - Non-Banking Financial Company Directions, 2023",
+      "source_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12345",
+      "effective_date": "2023-07-01",
+      "category": "NBFC",
+      "description": "Comprehensive directions for NBFCs issued by RBI in 2023."
+    }
+  ],
+  "SEBI": [
+    {
+      "file": "SEBI_PM_Regulations_2020.pdf",
+      "title": "SEBI (Portfolio Managers) Regulations, 2020",
+      "source_url": "https://www.sebi.gov.in/legal/regulations/aug-2023/securities-and-exchange-board-of-india-portfolio-managers-regulations-2020-last-amended-on-august-18-2023-_76366.html",
+      "effective_date": "2020-01-16",
+      "category": "Portfolio Managers",
+      "description": "Base regulation for portfolio managers in India."
+    },
+    {
+      "file": "SEBI_PM_Circular_DigitalOnboarding_May2024.pdf",
+      "title": "Circular: Digital Onboarding for Portfolio Managers",
+      "source_url": "https://www.apmiindia.org/storagebox/images/Circulars/Facilitating%20ease%20in%20digital%20on-boarding%20process%20for%20clients%20and%20enhancing%20transparency%20-%202nd%20May'24.pdf",
+      "effective_date": "2024-05-02",
+      "category": "Portfolio Managers",
+      "description": "Circular on digital onboarding and transparency for portfolio managers."
+    },
+    {
+      "file": "SEBI_PM_MasterCircular_June2024.pdf",
+      "title": "Master Circular for Portfolio Managers",
+      "source_url": "https://www.apmiindia.org/storagebox/images/Circulars/Master%20Circular%20for%20Portfolio%20Managers%20-%207th%20June'24.pdf",
+      "effective_date": "2024-06-07",
+      "category": "Portfolio Managers",
+      "description": "Master circular consolidating compliance guidelines for portfolio managers."
+    },
+    {
+      "file": "SEBI_PM_Amendment_CoInvestment_Feb2025.pdf",
+      "title": "Amendment: Co-Investment through Portfolio Managers",
+      "source_url": "https://elplaw.in/leadership/related-party-transactions-put-under-tighter-scrutiny-co-investment-through-portfolio-managers-notified-by-sebi/",
+      "effective_date": "2025-02-10",
+      "category": "Portfolio Managers",
+      "description": "Amendment regarding co-investment and related party transactions."
+    }
+  ],
+  "FATF": [
+    {
+      "file": "FATF_Recommendations_2024.pdf",
+      "title": "FATF Recommendations 2024",
+      "source_url": "https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatf-recommendations.html",
+      "effective_date": "2024-01-01",
+      "category": "AML/CFT",
+      "description": "International standards on combating money laundering and terrorist financing."
+    }
+  ]
+}
