@@ -1,3 +1,4 @@
+```
 Chunked PDFs + Metadata
           ↓
      Embedding Model
@@ -11,7 +12,7 @@ Chunked PDFs + Metadata
     Generated Answer + Citations
           ↓
     Frontend Display / API Response
-
+```
 
 
 ## 1. Parse the PDF with Structure Awareness
